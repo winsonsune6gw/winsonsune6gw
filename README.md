@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
+
+
+<p align="center">
+I am a software engineer from India :india:. Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
+</p>
+<p align="center">
+Fascinated about infinite space. Occupy Mars! :rocket:
+</p>
+
+**💼 Currently working as:**
+
+Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab</b></a>
